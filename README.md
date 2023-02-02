@@ -1,5 +1,18 @@
 # Project-Nebula
-A really cool gtag fan game
+This game is made using the GorillaLocomotion made by Lemming at Another Axiom thanks for the locomotion
+
+# Game Features
+- Awesome movement
+- Cool and Fun community
+- Horror Mode
+- Cool Cosmetics
+
+# Coming Soon...
+
+- Floor is lava (Lava Rush)
+- Alot more cosmetics
+- New maps
+- Possibly Guns
 
 # Donating to if0n's projects
 
