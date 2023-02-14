@@ -1,4 +1,4 @@
-# Project-Nebula
+# Macaque Craze
 This game is made using the GorillaLocomotion made by Lemming at Another Axiom thanks for the locomotion
 
 # Game Features
